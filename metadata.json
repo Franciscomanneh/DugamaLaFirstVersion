@@ -1,0 +1,6 @@
+{
+  "name": "DUGAMA",
+  "description": "A fresh mobile marketplace in Gambia connecting Buyers, Gardeners, and Vendors for fresh agricultural products with delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
